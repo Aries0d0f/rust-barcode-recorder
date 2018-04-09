@@ -1,0 +1,8 @@
+[package]
+name = "barcode-scanner"
+version = "0.1.0"
+authors = ["Aries Cs <aries0d0f@gmail.com>"]
+
+[dependencies]
+rand="0.3.0"
+chrono = "0.4"
